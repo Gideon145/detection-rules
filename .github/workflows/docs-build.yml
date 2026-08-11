@@ -10,4 +10,4 @@ permissions:
   pull-requests: read
 jobs:
   build:
-    uses: elastic/docs-actions/.github/workflows/docs-build.yml@e53c90b907ba881cc54b60e447541c72600ebe86 # v1
+    uses: elastic/docs-actions/.github/workflows/docs-build.yml@654b6ff08ab5a5cb2c17b1cfc79b82db0dedb879 # v1
